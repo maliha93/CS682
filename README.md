@@ -1,4 +1,5 @@
 ### [COMPSCI 682](https://compsci682-fa19.github.io/)
+(All notebooks completed with Python 3.6 and/or Pytorch)
 
 * Assignment 1: Image Classification, kNN, SVM, Softmax, Neural Network
 
